@@ -1,2 +1,2 @@
 # TecProcesHabla
-Trabajos de Técnicas de Procesamiento del Habla, 2º IFTS Nº24
+Trabajos de Técnicas de Procesamiento del Habla. IFTS Nº24
