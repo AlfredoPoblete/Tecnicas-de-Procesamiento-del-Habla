@@ -1,3 +1,8 @@
+# Integrantes:
+* [Mujica, Mauricio](https://github.com/mauriciomujica/)
+*	[Poblete, Alfredo](https://github.com/AlfredoPoblete/)
+*	[Schiariti, Alejandro](https://github.com/Nulltheory)
+
 # 🤖 Sistema de Detección de Quejas en E-commerce
 
 Este proyecto implementa un sistema de clasificación automática de mensajes de clientes para detectar si contienen una **queja** o no. Está diseñado especialmente para ser usado en plataformas de atención al cliente dentro del entorno de e-commerce.
@@ -54,8 +59,3 @@ nltk.download('stopwords')
 2. Abre el archivo `014_TPFinal.ipynb` en Jupyter.
 3. Ejecuta todas las celdas en orden.
 4. Al final del notebook, se abrirá una aplicación web con Gradio donde puedes probar el sistema ingresando tus propios mensajes.
-
-# Integrantes:
-* [Mujica, Mauricio](https://github.com/mauriciomujica/)
-*	[Poblete, Alfredo](https://github.com/AlfredoPoblete/)
-*	[Schiariti, Alejandro](https://github.com/Nulltheory)
