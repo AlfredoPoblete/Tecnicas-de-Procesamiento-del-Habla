@@ -1,4 +1,4 @@
-#Preprocesamiento Avanzado en PLN: Stemming vs. Lematización con NLTK y spaCy
+# Preprocesamiento Avanzado en PLN: Stemming vs. Lematización con NLTK y spaCy
 
 Este repositorio contiene un cuaderno de Jupyter que explora técnicas avanzadas de preprocesamiento de texto en Procesamiento de Lenguaje Natural (PLN), centrándose en la comparación entre Stemming y Lematización.
 
@@ -57,7 +57,7 @@ Este paso instalará nltk y spaCy, y descargará el modelo pequeño de español 
 4. Ejecutar las Celdas del Cuaderno
 Ejecuta las celdas de código de forma secuencial. El cuaderno está estructurado para guiarte a través de los conceptos y las aplicaciones de Stemming y Lematización, incluyendo un ejercicio práctico para aplicar ambas técnicas a un conjunto de frases de ejemplo.
 
-##Contenido del Cuaderno
+## Contenido del Cuaderno
 El cuaderno está dividido en las siguientes secciones principales:
 
 1. Instalaciones e Importaciones: Configuración inicial del entorno.
